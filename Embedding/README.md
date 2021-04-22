@@ -6,7 +6,11 @@ Collections of Knowledge Graph Embedding relaeted papers and works.
 
 ## New
 
+[2021 WWW] **MulDE: Multi-teacher Knowledge Distillation for Low-dimensional Knowledge Graph Embeddings.** *Kai Wang, Yu Liu, Qian Ma, Quan Z. Sheng.* [[paper](https://arxiv.org/pdf/2010.07152)]
 
+[2021 WWW] **Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion.** *Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew Arnold, Bing Xiang, Philip S. Yu, Isabel F. Cruz.* [[paper](https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf)]
+
+[2021 WWW] **MQuadE: a Unified Model for Knowledge Fact Embedding.** *Jinxing Yu (Baidu Research), Yunfeng Cai (Baidu Research), Mingming Sun (Baidu Research) and Ping Li (Baidu Research).* 
 
 
 
@@ -44,7 +48,9 @@ Collections of Knowledge Graph Embedding relaeted papers and works.
 
 [NIPS 2019] **Multi-relational Poincaré Graph Embeddings.** *Ivana Balazevic, Carl Allen, Timothy Hospedales.* [[paper](https://papers.nips.cc/paper/2019/file/f8b932c70d0b2e6bf071729a4fa68dfc-Paper.pdf)] [[code](https://github.com/ibalazevic/multirelational-poincare)]
 
-[ICRL 2019]**RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space.** *Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang.* [[paper](https://arxiv.org/pdf/1902.10197)] [[code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)]
+[ICRL 2019] **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space.** *Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang.* [[paper](https://arxiv.org/pdf/1902.10197)] [[code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)]
+
+[ACL 2019] **Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs.** *Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul.* [[paper](https://arxiv.org/pdf/1906.01195)] [[code](https://github.com/deepakn97/relationPrediction)]
 
 
 
