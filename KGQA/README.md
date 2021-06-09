@@ -12,7 +12,7 @@ Collections of Knowledge Graph Question Answering related papers and works.
 
 [2021 NAACL] **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** [[paper](https://arxiv.org/abs/2104.06378)] [[code](https://github.com/michiyasunaga/qagnn)]
 
-提出了一个新的模型QA-GNN，它通过两个关键创新来应对上述挑战：（一） 相关性评分，其中我们使用 LMs 来估计 KG 节点相对于给定 QA 上下文的重要性;（ii） 联合推理，我们将 QA 上下文和 KG 连接起来，形成一个联合图形，并通过基于图的消息传递相互更新其表示。
+提出了一个新的模型QA-GNN，它通过两个关键创新来应对上述挑战：（1） 相关性评分，其中我们使用 LMs 来估计 KG 节点相对于给定 QA 上下文的重要性;（2） 联合推理，我们将 QA 上下文和 KG 连接起来，形成一个联合图形，并通过基于图的消息传递相互更新其表示。
 
 ## Conference
 
