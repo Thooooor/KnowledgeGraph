@@ -4,7 +4,9 @@ Collections of Knowledge Graph Embedding relaeted papers and works.
 
 
 
-## New
+## New :fire:
+
+[2021 AAAI] **ChronoR: Rotation Based Temporal Knowledge Graph Embedding.** *Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang* [[paper](https://arxiv.org/abs/2103.10379)] 
 
 [2021 WWW] **MulDE: Multi-teacher Knowledge Distillation for Low-dimensional Knowledge Graph Embeddings.** *Kai Wang, Yu Liu, Qian Ma, Quan Z. Sheng.* [[paper](https://arxiv.org/pdf/2010.07152)]
 
@@ -14,15 +16,33 @@ Collections of Knowledge Graph Embedding relaeted papers and works.
 
 
 
+## Temporal
+
+[2020 AAAI] **Diachronic Embedding for Temporal Knowledge Graph Completion.** *Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart.* [[paper](https://arxiv.org/abs/1907.03143)] [[code](https://arxiv.org/abs/1907.03143)]
+
+[2020 EMNLP] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion.** *Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, William L. Hamilton.* [[paper](https://arxiv.org/abs/2010.03526)] [[code](https://github.com/JiapengWu/TeMP)]
+
+[2020 EMNLP] **Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs.** *Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren.* [[paper](https://arxiv.org/abs/1904.05530)] [[code](https://github.com/INK-USC/RE-Net)]
+
+[2020 EMNLP] **DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion.** *Zhen Han, Yunpu Ma, Peng Chen, Volker Tresp.* [[paper](https://arxiv.org/abs/2011.03984)]
+
+[2018 EMNLP] **Learning Sequence Encoders for Temporal Knowledge Graph Completion.** *Alberto García-Durán, Sebastijan Dumančić, Mathias Niepert.* [[paper](https://arxiv.org/abs/1809.03202)] [[code](https://github.com/bsantraigi/TA_TransE)]
+
+[2018 EMNLP] **HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding.** *Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar.* [[paper](https://www.aclweb.org/anthology/D18-1225/)] [[code](https://github.com/malllabiisc/HyTE)]
+
+
+
 ## Hyperbolic
 
 [2020 ACL] **Low-Dimensional Hyperbolic Knowledge Graph Embeddings.** *Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré.* [[paper](https://www.aclweb.org/anthology/2020.acl-main.617.pdf)] [[code](https://github.com/HazyResearch/KGEmb)]
+
+[2020 EMNLP] **Knowledge Association with Hyperbolic Knowledge Graph Embeddings.** *Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang.* [[paper](https://arxiv.org/pdf/2010.02162)] [[code](https://github.com/nju-websoft/HyperKA)]
 
 [2019 NIPS] **Multi-relational Poincaré Graph Embeddings.** *Ivana Balazevic, Carl Allen, Timothy Hospedales.* [[paper](https://papers.nips.cc/paper/2019/file/f8b932c70d0b2e6bf071729a4fa68dfc-Paper.pdf)] [[code](https://github.com/ibalazevic/multirelational-poincare)]
 
 [2017 NIPS] **Poincaré Embeddings for Learning Hierarchical Representations.** *Maximillian Nickel, Douwe Kiela.* [[paper](https://papers.nips.cc/paper/2017/file/59dfa2df42d9e3d41f5b02bfc32229dd-Paper.pdf)] [[code](https://github.com/facebookresearch/poincare-embeddings)]
 
-### Related
+### Hyperbolic Related
 
 [2018 NIPS] **Hyperbolic Neural Networks.** *Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann.* [[paper](https://arxiv.org/pdf/1805.09112)] [[code](https://github.com/dalab/hyperbolic_nn)]
 
@@ -36,42 +56,55 @@ Collections of Knowledge Graph Embedding relaeted papers and works.
 
 ### 2020
 
-[ACL 2020] **Low-Dimensional Hyperbolic Knowledge Graph Embeddings.** *Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré.* [[paper](https://www.aclweb.org/anthology/2020.acl-main.617.pdf)] [[code](https://github.com/HazyResearch/KGEmb)]
+[2020 ACL] **Low-Dimensional Hyperbolic Knowledge Graph Embeddings.** *Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré.* [[paper](https://www.aclweb.org/anthology/2020.acl-main.617.pdf)] [[code](https://github.com/HazyResearch/KGEmb)]
 
-[ACL 2020] **SEEK: Segmented Embedding of Knowledge Graphs.**  *Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin, Tie-Yan Liu.* [[paper](https://www.aclweb.org/anthology/2020.acl-main.358.pdf)] [[code](https://github.com/Wentao-Xu/SEEK)]
+[2020 ACL] **SEEK: Segmented Embedding of Knowledge Graphs.**  *Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin, Tie-Yan Liu.* [[paper](https://www.aclweb.org/anthology/2020.acl-main.358.pdf)] [[code](https://github.com/Wentao-Xu/SEEK)]
+
+[2020 AAAI] **Diachronic Embedding for Temporal Knowledge Graph Completion.** *Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart.* [[paper](https://arxiv.org/abs/1907.03143)] [[code](https://arxiv.org/abs/1907.03143)]
+
+[2020 EMNLP] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion.** *Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, William L. Hamilton.* [[paper](https://arxiv.org/abs/2010.03526)] [[code](https://github.com/JiapengWu/TeMP)]
+
+[2020 EMNLP] **Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs.** *Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren.* [[paper](https://arxiv.org/abs/1904.05530)] [[code](https://github.com/INK-USC/RE-Net)]
+
+[2020 EMNLP] **DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion.** *Zhen Han, Yunpu Ma, Peng Chen, Volker Tresp.* [[paper](https://arxiv.org/abs/2011.03984)]
+
+[2020 EMNLP] **Knowledge Association with Hyperbolic Knowledge Graph Embeddings.** *Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang.* [[paper](https://arxiv.org/pdf/2010.02162)] [[code](https://github.com/nju-websoft/HyperKA)]
 
 
 
 ### 2019
 
-[EMNLP 2019] **TuckER: Tensor Factorization for Knowledge Graph Completion.** *Ivana Balažević, Carl Allen, Timothy M. Hospedales.* [[paper](https://arxiv.org/pdf/1901.09590)] [[code](https://github.com/ibalazevic/TuckER)]
+[2019 EMNLP] **TuckER: Tensor Factorization for Knowledge Graph Completion.** *Ivana Balažević, Carl Allen, Timothy M. Hospedales.* [[paper](https://arxiv.org/pdf/1901.09590)] [[code](https://github.com/ibalazevic/TuckER)]
 
-[NIPS 2019] **Multi-relational Poincaré Graph Embeddings.** *Ivana Balazevic, Carl Allen, Timothy Hospedales.* [[paper](https://papers.nips.cc/paper/2019/file/f8b932c70d0b2e6bf071729a4fa68dfc-Paper.pdf)] [[code](https://github.com/ibalazevic/multirelational-poincare)]
+[2019 NIPS] **Multi-relational Poincaré Graph Embeddings.** *Ivana Balazevic, Carl Allen, Timothy Hospedales.* [[paper](https://papers.nips.cc/paper/2019/file/f8b932c70d0b2e6bf071729a4fa68dfc-Paper.pdf)] [[code](https://github.com/ibalazevic/multirelational-poincare)]
 
-[ICRL 2019] **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space.** *Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang.* [[paper](https://arxiv.org/pdf/1902.10197)] [[code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)]
+[2019 ICRL] **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space.** *Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang.* [[paper](https://arxiv.org/pdf/1902.10197)] [[code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)]
 
-[ACL 2019] **Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs.** *Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul.* [[paper](https://arxiv.org/pdf/1906.01195)] [[code](https://github.com/deepakn97/relationPrediction)]
+[2019 ACL] **Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs.** *Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul.* [[paper](https://arxiv.org/pdf/1906.01195)] [[code](https://github.com/deepakn97/relationPrediction)]
 
 
 
 ### 2018
 
-[NIPS 2018] **SimplE Embedding for Link Prediction in Knowledge Graphs.** *Seyed Mehran Kazemi, David Poole.* [[paper](https://arxiv.org/pdf/1802.04868)] [[code](https://github.com/baharefatemi/SimplE)]
+[2018 NIPS] **SimplE Embedding for Link Prediction in Knowledge Graphs.** *Seyed Mehran Kazemi, David Poole.* [[paper](https://arxiv.org/pdf/1802.04868)] [[code](https://github.com/baharefatemi/SimplE)]
+
+[2018 EMNLP] **Learning Sequence Encoders for Temporal Knowledge Graph Completion.** *Alberto García-Durán, Sebastijan Dumančić, Mathias Niepert.* [[paper](https://arxiv.org/abs/1809.03202)] [[code](https://github.com/bsantraigi/TA_TransE)]
+
+[2018 EMNLP] **HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding.** *Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar.* [[paper](https://www.aclweb.org/anthology/D18-1225/)] [[code](https://github.com/malllabiisc/HyTE)]
 
 
 
 ### 2017
 
-[NIPS 2017] **Poincaré Embeddings for Learning Hierarchical Representations.** *Maximillian Nickel, Douwe Kiela.* [[paper](https://papers.nips.cc/paper/2017/file/59dfa2df42d9e3d41f5b02bfc32229dd-Paper.pdf)] [[code](https://github.com/facebookresearch/poincare-embeddings)]
+[2017 NIPS] **Poincaré Embeddings for Learning Hierarchical Representations.** *Maximillian Nickel, Douwe Kiela.* [[paper](https://papers.nips.cc/paper/2017/file/59dfa2df42d9e3d41f5b02bfc32229dd-Paper.pdf)] [[code](https://github.com/facebookresearch/poincare-embeddings)]
 
 
 
 ### 2016
 
-[ICML 2016] **Complex Embeddings for Simple Link Prediction.** *Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier, Guillaume Bouchard* [[paper](https://arxiv.org/pdf/1606.06357)] [[code](https://github.com/ttrouill/complex)]
+[2016 ICML] **Complex Embeddings for Simple Link Prediction.** *Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier, Guillaume Bouchard* [[paper](https://arxiv.org/pdf/1606.06357)] [[code](https://github.com/ttrouill/complex)]
 
-[IJCAI 2016] **From One Point to A Manifold: Knowledge Graph Embedding For Precise Link Prediction.** *Han Xiao, Minlie Huang, Xiaoyan Zhu.* [[paper](https://arxiv.org/pdf/1512.04792)]
-
+[2016 IJCAI] **From One Point to A Manifold: Knowledge Graph Embedding For Precise Link Prediction.** *Han Xiao, Minlie Huang, Xiaoyan Zhu.* [[paper](https://arxiv.org/pdf/1512.04792)]
 
 
 
