@@ -1,6 +1,6 @@
 # Knowledge Graph Embedding
 
-Collections of Knowledge Graph Embedding relaeted papers and works.
+Collections of Knowledge Graph Embedding related papers and works.
 
 
 
