@@ -12,7 +12,7 @@ Collections of Knowledge Graph Embedding relaeted papers and works.
 
 [2021 WWW] **Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion.** *Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew Arnold, Bing Xiang, Philip S. Yu, Isabel F. Cruz.* [[paper](https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf)]
 
-[2021 WWW] **MQuadE: a Unified Model for Knowledge Fact Embedding.** *Jinxing Yu (Baidu Research), Yunfeng Cai (Baidu Research), Mingming Sun (Baidu Research) and Ping Li (Baidu Research).* 
+[2021 WWW] **MQuadE: a Unified Model for Knowledge Fact Embedding.** *Jinxing Yu (Baidu Research), Yunfeng Cai (Baidu Research), Mingming Sun (Baidu Research) and Ping Li (Baidu Research).* [[paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449879)]
 
 
 
