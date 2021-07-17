@@ -1,6 +1,6 @@
 # Knowledge Graph
 
-
+Collections of Knowledge Graph related papers and works. I divided it into different parts.
 
 ## [Knowledge Graph Embedding](https://github.com/Thooooor/KnowledgeGraph/blob/master/Embedding/README.md)
 

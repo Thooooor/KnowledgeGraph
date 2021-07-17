@@ -18,6 +18,10 @@ Collections of Knowledge Graph Embedding related papers and works.
 
 ## Temporal
 
+[2021 AAAI] **ChronoR: Rotation Based Temporal Knowledge Graph Embedding.** *Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang* [[paper](https://arxiv.org/abs/2103.10379)] 
+
+[2020 ICLR] **Tensor Decompositions for temporal knowledge base completion.** *Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier.* [[paper](https://arxiv.org/abs/2004.04926)] [[code](https://github.com/facebookresearch/tkbc)]
+
 [2020 AAAI] **Diachronic Embedding for Temporal Knowledge Graph Completion.** *Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart.* [[paper](https://arxiv.org/abs/1907.03143)] [[code](https://arxiv.org/abs/1907.03143)]
 
 [2020 EMNLP] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion.** *Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, William L. Hamilton.* [[paper](https://arxiv.org/abs/2010.03526)] [[code](https://github.com/JiapengWu/TeMP)]
@@ -69,6 +73,8 @@ Collections of Knowledge Graph Embedding related papers and works.
 [2020 EMNLP] **DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion.** *Zhen Han, Yunpu Ma, Peng Chen, Volker Tresp.* [[paper](https://arxiv.org/abs/2011.03984)]
 
 [2020 EMNLP] **Knowledge Association with Hyperbolic Knowledge Graph Embeddings.** *Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang.* [[paper](https://arxiv.org/pdf/2010.02162)] [[code](https://github.com/nju-websoft/HyperKA)]
+
+[2020 ICLR] **Tensor Decompositions for temporal knowledge base completion.** *Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier.* [[paper](https://arxiv.org/abs/2004.04926)] [[code](https://github.com/facebookresearch/tkbc)]
 
 
 
