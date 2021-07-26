@@ -6,6 +6,10 @@ Collections of Knowledge Graph Question Answering related papers and works.
 
 ## NEW :fire:
 
+[2021 ACL-IJCNLP] **Deep Cognitive Reasoning Network for Multi-hop Question Answering over Knowledge Graphs.** *Jianyu Cai, Zhanqiu Zhang, Feng Wu and Jie Wang.*
+
+[2021 ACL-IJCNLP] **Question Answering Over Temporal Knowledge Graphs.** *Apoorv Saxena, Soumen Chakrabarti, Partha Talukdar.* [[paper](https://arxiv.org/abs/2106.01515)] [[code](https://github.com/apoorvumang/CronKGQA)]
+
 [2021 WSDM] **Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals** [[paper](https://arxiv.org/abs/2101.03737)] [[code](https://github.com/RichardHGL/WSDM2021_NSM)]
 
 为多跳KBQA任务提出了一种新颖的师生方法。在我们的方法中，学生网络旨在找到正确的查询答案，而教师网络则试图学习中间监督信号，以提高学生网络的推理能力。

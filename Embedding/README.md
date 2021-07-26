@@ -6,6 +6,18 @@ Collections of Knowledge Graph Embedding related papers and works.
 
 ## New :fire:
 
+[2021 ACL-IJCNLP] **Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures.** *Sebastien Montella, Lina Rojas-Barahona, Johannes Heinecke.* [[paper](https://arxiv.org/abs/2106.04311)]
+
+[2021 ACL-IJCNLP] **OKGIT: Open Knowledge Graph Link Prediction with Implicit Types.** *Chandrahas and Partha Talukdar* [[paper](https://arxiv.org/abs/2106.12806)] [[code](https://github.com/Chandrahasd/OKGIT)]
+
+[2021 ACL-IJCNLP] **Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs.** *Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng.* [[paper](https://arxiv.org/abs/2106.00327)]
+
+[2021 ACL-IJCNLP] **Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion.** *Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen and Hanwang Zhang.*
+
+[2021 ACL-IJCNLP] **PairRE: Knowledge Graph Embeddings via Paired Relation Vectors.** *Linlin Chao, Jianshan He, Taifeng Wang, Wei Chu.* [[paper](https://arxiv.org/abs/2011.03798)] [[code](https://github.com/alipay/KnowledgeGraphEmbeddingsViaPairedRelationVectors_PairRE)]
+
+[2021 ACL-IJCNLP] **Robust Knowledge Graph Completion with Stacked Convolutions and a Student Re-Ranking Network.** *Justin Lovelace, Denis Newman-Griffis, Shikhar Vashishth, Jill Fain Lehman, Carolyn Penstein Rosé.* [[paper](https://arxiv.org/abs/2106.06555)] [[code](https://github.com/justinlovelace/robust-kg-completion)]
+
 [2021 AAAI] **ChronoR: Rotation Based Temporal Knowledge Graph Embedding.** *Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang* [[paper](https://arxiv.org/abs/2103.10379)] 
 
 [2021 WWW] **MulDE: Multi-teacher Knowledge Distillation for Low-dimensional Knowledge Graph Embeddings.** *Kai Wang, Yu Liu, Qian Ma, Quan Z. Sheng.* [[paper](https://arxiv.org/pdf/2010.07152)]
@@ -17,6 +29,8 @@ Collections of Knowledge Graph Embedding related papers and works.
 
 
 ## Temporal
+
+[2021 ACL-IJCNLP] **Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures.** *Sebastien Montella, Lina Rojas-Barahona, Johannes Heinecke.* [[paper](https://arxiv.org/abs/2106.04311)]
 
 [2021 AAAI] **ChronoR: Rotation Based Temporal Knowledge Graph Embedding.** *Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang* [[paper](https://arxiv.org/abs/2103.10379)] 
 
@@ -37,6 +51,8 @@ Collections of Knowledge Graph Embedding related papers and works.
 
 
 ## Hyperbolic
+
+[2021 ACL-IJCNLP] **Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures.** *Sebastien Montella, Lina Rojas-Barahona, Johannes Heinecke.* [[paper](https://arxiv.org/abs/2106.04311)]
 
 [2020 ACL] **Low-Dimensional Hyperbolic Knowledge Graph Embeddings.** *Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré.* [[paper](https://www.aclweb.org/anthology/2020.acl-main.617.pdf)] [[code](https://github.com/HazyResearch/KGEmb)]
 
